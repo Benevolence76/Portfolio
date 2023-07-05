@@ -1,0 +1,13 @@
+@keyframes test {
+0% {border-color: darkgreen;}
+50% {border-color: red;}
+100% {border-color: grey;}
+}
+
+p {
+width: 400px;
+height: 200px;
+border: solid yellow 20px;
+background-color: black;
+
+}
